@@ -1,3 +1,3 @@
 Projects
 
-[aa228_final_report.pdf](aa228)
+[aa228](aa228_final_report.pdf)
