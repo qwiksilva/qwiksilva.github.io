@@ -1,5 +1,6 @@
 |Class|Paper|
 |:---:|:---:|
+|Machine Learning with Graphs (CS224w) | [GitHub Reviewer Recommendation Using Graphs](cs224w_final_report.pdf)|
 |Deep Learning (CS230) | [Time Series Forecasting with Deep Learning Models](cs230_final_report.pdf)|
 |Reinforcement Learning (CS234) | [Linear Contextual Bandits for Online Warfarin Dosage Prediction](cs234_final_report.pdf)|
 |Decision Making Under Uncertainty (AA228) | [Reinforcement Learning for Exploding Kittens](aa228_final_report.pdf)|
