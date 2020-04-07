@@ -1,7 +1,6 @@
 |Class|Paper|
 |:---:|:---:|
-|Natural Language Processing with Deep Learning (CS224n) | [Intermediate Pretrained Contextual Embedding
-Models With Applications in Question Answering](CS224N__Final_Report.pdf)|
+|Natural Language Processing with Deep Learning (CS224n) | [Intermediate Pretrained Contextual Embedding Models With Applications in Question Answering](CS224N__Final_Report.pdf)|
 |Machine Learning with Graphs (CS224w) | [GitHub Reviewer Recommendation Using Graphs](cs224w_final_report.pdf)|
 |Deep Learning (CS230) | [Time Series Forecasting with Deep Learning Models](cs230_final_report.pdf)|
 |Reinforcement Learning (CS234) | [Linear Contextual Bandits for Online Warfarin Dosage Prediction](cs234_final_report.pdf)|
